@@ -1,7 +1,37 @@
-{
-  "satellite_id": "SAT-001",
-  "name": "Eagle-1",
-  "position": [120.5, -45.2, 300.0],
-  "velocity": [1.5, -0.5, 0.2],
-  "status": "NOMINAL"
-}
+[
+  {
+    "satellite_id": "SAT-001",
+    "name": "Eagle-1",
+    "position": [120.5, -45.2, 300.0],
+    "velocity": [1.5, -0.5, 0.2],
+    "status": "NOMINAL"
+  },
+  {
+    "satellite_id": "SAT-002",
+    "name": "Falcon-2",
+    "position": [510.0, 505.1, 490.8],
+    "velocity": [-1.0, -0.8, 0.1],
+    "status": "NOMINAL"
+  },
+  {
+    "satellite_id": "SAT-003",
+    "name": "Hawk-3",
+    "position": [-250.7, 88.0, 150.3],
+    "velocity": [0.2, 1.8, -0.4],
+    "status": "WARNING_FUEL_LOW"
+  },
+  {
+    "satellite_id": "SAT-004",
+    "name": "Raven-4",
+    "position": [800.1, -650.9, -200.5],
+    "velocity": [-0.7, 0.6, 1.2],
+    "status": "NOMINAL"
+  },
+  {
+    "satellite_id": "SAT-005",
+    "name": "Sparrow-5",
+    "position": [440.0, 115.3, 790.6],
+    "velocity": [0.0, -0.1, -0.2],
+    "status": "OFFLINE"
+  }
+]

@@ -1,0 +1,7 @@
+{
+  "satellite_id": "SAT-001",
+  "name": "Eagle-1",
+  "position": [120.5, -45.2, 300.0],
+  "velocity": [1.5, -0.5, 0.2],
+  "status": "NOMINAL"
+}
